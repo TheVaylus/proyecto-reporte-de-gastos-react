@@ -1,12 +1,7 @@
-# React Expense Tracker
+# Proyecto de reporte de gastos con React
 
-React Expense Tracker is a simple expense tracker app built with React and the context API.
+Este proyecto es una practica de el uso de react en aplicaciones reales y de uso cotidiano
 
-# Usage
+# Funciones
 
-```
-git clone https://github.com/fazt/react-expense-tracker 
-cd react-expense-tracker
-npm install
-npm start
-```
+Administrar gastos y registrar ingresos
